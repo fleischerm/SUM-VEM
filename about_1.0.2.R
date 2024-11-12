@@ -1,7 +1,7 @@
 about <- tabItem(tabName = "About",
         tags$h2("(V)ocal-(E)xtent-(M)easure-calculator for DiVAS >= 2.8.3* and lingWAVES >= 3.2**"),
         # tags$h3("Predicting gender by analyzing audio samples"),
-        tags$div("Version: 1.0.1"),
+        tags$div("Version: 1.0.2"),
         tags$hr(style="border-color: black;"),
         # tags$h3("Benefits"),
         # tags$div("Based on generalized-linear-models, this web-app predicts gender by analyzing any audio files. The models has been verified by analyzing"),
