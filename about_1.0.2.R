@@ -77,7 +77,7 @@ about <- tabItem(tabName = "About",
         
         tags$div("This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details."),
         tags$hr(style="border-color: black;"),
-        tags$div("(coming soon) The source code is hosted at gitlab: ",tags$a(href="https://github.com/fleischerm/SUM-VEM","https://github.com/fleischerm/SUM-VEM")),
+        tags$div("The source code is hosted at gitlab: ",tags$a(href="https://github.com/fleischerm/SUM-VEM","https://github.com/fleischerm/SUM-VEM")),
         tags$hr(style="border-color: black;"),
         tags$div("*DiVAS is a registered trademark by www.xion-medical.com; **lingWAVES is a registered trademark by www.wevosys.de"),
 )
